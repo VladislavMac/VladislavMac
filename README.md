@@ -4,6 +4,13 @@ JS:
 - ES6
 - Ajax / Fetch Api
 
+Node JS: 
+- node.js(basics)
+- http / restapi
+- ejs
+- mysql / mysql_DB
+- express.js(basics)
+
 Верстка:
 - HTML
 - HTML5
