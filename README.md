@@ -1,9 +1,13 @@
-
+Vue:
+- Vue3 basic
+- components
+  
 JS:
 - JavaScript
 - ES6
 - Ajax / Fetch Api
-
+- DOM / Js animations
+- OOP
 
 Верстка:
 - HTML
