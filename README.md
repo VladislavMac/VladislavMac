@@ -1,6 +1,6 @@
 Vue:
 - Vue3 basic
-- components
+- Components basic
   
 JS:
 - JavaScript
