@@ -9,9 +9,8 @@ JS:
 - ES6
 - Event Loop
 - Ajax / Fetch Api
-- DOM / Js animations
-- OOP
-- Class
+- DOM  / Js animations
+- OOP  / Class
 - Ninja Code
 
 Layouts:
