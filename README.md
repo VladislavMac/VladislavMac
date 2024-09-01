@@ -1,31 +1,6 @@
-Unity 3D
+Unity 2D/3D
 
-C#:
-- Basic
-- OOP
-
-Vue:
-- Vue3 basic
-- Components basic
-- Single File Components
-  
-JS:
-- 2 years practical ( not commercial )
-- JavaScript
-- ES6
-- Event Loop
-- Ajax / Fetch Api
-- DOM  / Js animations
-- OOP  / Class
-- Ninja Code
-
-Layouts:
-- HTML
-- HTML5
-- SCSS
-- Adaptive layouts
-- CSS
-- bootstrap
+C#
 
 Other:
 - npm
